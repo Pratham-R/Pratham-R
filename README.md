@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratham-R
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Java , Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @prathamrastogi5@gmail.com
 
