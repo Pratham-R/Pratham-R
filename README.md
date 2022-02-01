@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pratham-R
-- 👀 I’m interested in Java , Python
-- 🌱 I’m currently learning Front-End Web Development
-- 📫 How to reach me @prathamrastogi5@gmail.com
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Pratham!
 
 <a href="https://www.linkedin.com/in/prathamrastogi/">
@@ -17,6 +14,7 @@
 <a href="https://www.instagram.com/prathamrastogiii/">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
-
+- 👀 I’m interested in Java , Python
+- 🌱 I’m currently learning Front-End Web Development
 <br />
 <br />
