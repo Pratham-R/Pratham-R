@@ -8,7 +8,7 @@ I'm a **Computer Science Student** at The NorthCap University(NCU) 🏛. I'm a p
 <img align="right" width="400" alt="" src="https://github.com/Pratham-R/Pratham-R/blob/main/undraw_hello_re_3evm.svg" />
 
 - 🛠 I’m currently working with Python, Java
-- 🔭 I’m currently working a Chat Application
+- 🔭 I’m currently working on a Chat Application
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: prathamrastogi5@gmail.com
 - ❤️ Fell in love with MacOS
