@@ -10,6 +10,7 @@ I'm a **Computer Science Student** at The NorthCap University(NCU) 🏛. I'm a p
 - 🛠 I’m currently working with Python, Java
 - 🔭 I’m currently working on a Chat Application
 - 🌱 I’m currently learning Data Science
+- 💬 Ask me about anything [here](https://github.com/Pratham-R/Pratham-R/discussions/1)
 - 📫 How to reach me: prathamrastogi5@gmail.com
 - ❤️ Fell in love with MacOS
 - ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
