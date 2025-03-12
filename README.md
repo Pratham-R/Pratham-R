@@ -22,7 +22,7 @@ I’m a passionate developer skilled in **React.js, Node.js, TypeScript, GraphQL
 
 <div align="center">
   <a href="https://github.com/Pratham-R">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pratham-R&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+<!--     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pratham-R&count_private=true&show_icons=true&theme=dark&include_all_commits=true" /> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-R&layout=compact&theme=dark" />
   </a>
 </div>
