@@ -10,7 +10,7 @@ I’m a passionate developer skilled in **React.js, Node.js, TypeScript, GraphQL
 
 ### 🔥 About Me
 
-- 💼 **Currently working at Formidium as a Junior Software Engineer**
+- 💼 **Junior Software Engineer**
 - 🔭 **Building AetherMind** – DevTools for AI agents
 - 🚀 **Developing Track2Tap** – A productivity app to curb social media addiction
 - 🌱 **Exploring advanced DevOps and cloud architectures**
